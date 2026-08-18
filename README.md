@@ -13,6 +13,8 @@ Jeder Skill adressiert ein konkretes, wiederkehrendes Nutzerproblem — vom sich
 | Skill | Problem | Beschreibung |
 |---|---|---|
 | [`vibe-coding-safety`](skills/vibe-coding-safety/SKILL.md) | Agenten löschen versehentlich Daten/Code, ignorieren Stopp-Befehle, arbeiten ohne Rollback | Safety-Net für hoch-autonome Coding-Agenten: Dry-Run, Backups, Stopp-Erzwingung, Verifikation |
+| [`agent-token-budget`](skills/agent-token-budget/SKILL.md) | Agenten verbrennen Token: Endlos-Narration, Repo-Re-Reads, Wiederholungen | Hartes Budget setzen, Kontext-Lese-Limits, Narration unterdrücken, Messen & Loggen |
+| [`obsidian-wissensbasis`](skills/obsidian-wissensbasis/SKILL.md) | Agenten vergessen dein Wissen zwischen Sessions, Kontext fehlt | Obsidian-Vault als zweites Gedächtnis: Struktur, Agent-Zugriff (suchen/lesen/schreiben), Backup-Workflow |
 
 *Weitere kommen laufend hinzu.*
 
